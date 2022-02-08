@@ -1,4 +1,6 @@
-# Irvas-windows - Ирвас - окна на JavaScript
+# Irvas-windows
+
+Ирвас-окна на JavaScript
 
 Реализовано:
 - Модальные окна
